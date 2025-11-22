@@ -1,7 +1,7 @@
 # Hi, I'm Satveer 👋
 
 I'm a 2nd year CSE student exploring software development and improving my programming skills.  
-I’m currently learning Python and Java and slowly building real understanding by working on small tasks and concepts.
+I’m currently learning Python and Java and building a stronger foundation through consistent practice.
 
 📍 Bathinda, Punjab  
 ✉️ Email: satveerka2006@gmail.com  
@@ -12,16 +12,34 @@ I’m currently learning Python and Java and slowly building real understanding 
 
 ## About Me ✨
 - Currently learning Python and Java  
-- Interested in how software works behind the scenes  
-- Enjoy experimenting with code and solving small problems  
-- Trying to grow consistently as a developer  
+- Interested in how software and applications work  
+- Enjoy solving small problems and experimenting with code  
+- Focused on growing as a developer through consistency  
 
 ---
 
 ## Tech Stack 💻
-- **Languages:** Python, Java  
-- **Tools:** VS Code, Git, GitHub  
+
+**Programming Languages:**  
+- C, C++, Python, Java  
+
+**Web Technologies:**  
+- HTML, CSS  
+
+**Database:**  
+- MySQL  
+
+**Python Libraries:**  
+- Tkinter, Pandas, NumPy  
+
+**Tools & IDEs:**  
+- VS Code, Jupyter Notebook, Git, GitHub  
 
 ---
 
-Thanks for visiting my profile.  
+## GitHub Stats 📊
+![Satveer GitHub Stats](https://github-readme-stats.vercel.app/api?username=Satveerka13&show_icons=true&theme=default)
+
+---
+
+Thanks for visiting my profile.
