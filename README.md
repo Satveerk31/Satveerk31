@@ -44,12 +44,24 @@ I’m currently learning Python and Java and building a stronger foundation thro
 
 ## Let's Connect
 
-I’m always open to discussing technology, learning opportunities, and collaboration on beginner-friendly projects.  
-Feel free to reach out through any of the platforms below:
+<p align="left">
 
-- **Email:** satveerka2006@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/satveer-kaur-2315223a7  
-- **Instagram:** https://www.instagram.com/  
+<!-- LinkedIn (Soft Blue) -->
+<a href="https://www.linkedin.com/in/satveer-kaur-2315223a7" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-7BA4DB?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<!-- Instagram (Soft Lavender) -->
+<a href="https://www.instagram.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-C7A6E5?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<!-- GitHub (Soft Charcoal Grey) -->
+<a href="https://github.com/Satveerk31" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-4A4A4A?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</p>
 
 ---
 
