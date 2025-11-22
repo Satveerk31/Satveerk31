@@ -5,16 +5,15 @@ I’m currently learning Python and Java and building a stronger foundation thro
 
 📍 Bathinda, Punjab  
 ✉️ Email: satveerka2006@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/satveer-kaur-2315223a7  
-📸 Instagram: https://www.instagram.com/
 
 ---
 
-## About Me
-- Currently learning Python and Java  
-- Interested in how software and applications work  
-- Enjoy solving small problems and experimenting with code  
-- Focused on growing as a developer through consistency  
+## 🎯 About Me
+
+💡 I'm a 2nd year CSE student who enjoys learning how software works and how ideas turn into real applications.  
+🚀 I’m currently exploring programming concepts in Python and Java and improving my understanding through small projects.  
+✨ I’m interested in problem-solving, learning new tools, and growing with consistency.  
+📝 Along with technical learning, I'm also working on communication, presentation, and project management skills.
 
 ---
 
@@ -46,7 +45,7 @@ I’m currently learning Python and Java and building a stronger foundation thro
 
 <p align="left">
 
-<!-- LinkedIn (Soft Blue) -->
+<!-- LinkedIn (Soft green) -->
 <a href="https://www.linkedin.com/in/satveer-kaur-2315223a7" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-7BA4DB?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -66,4 +65,3 @@ I’m currently learning Python and Java and building a stronger foundation thro
 ---
 
 Thanks for visiting my profile.
-
