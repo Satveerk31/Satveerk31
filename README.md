@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Satveer 👋
 
-<!--
-**Satveerk31/Satveerk31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 2nd year CSE student exploring software development and improving my programming skills.  
+I’m currently learning Python and Java and slowly building real understanding by working on small tasks and concepts.
 
-Here are some ideas to get you started:
+📍 Bathinda, Punjab  
+✉️ Email: satveerka2006@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/satveer-kaur-2315223a7  
+📸 Instagram: https://www.instagram.com/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me ✨
+- Currently learning Python and Java  
+- Interested in how software works behind the scenes  
+- Enjoy experimenting with code and solving small problems  
+- Trying to grow consistently as a developer  
+
+---
+
+## Tech Stack 💻
+- **Languages:** Python, Java  
+- **Tools:** VS Code, Git, GitHub  
+
+---
+
+Thanks for visiting my profile.  
