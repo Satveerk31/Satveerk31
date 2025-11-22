@@ -45,7 +45,7 @@ I’m currently learning Python and Java and building a stronger foundation thro
 
 <p align="left">
 
-<!-- LinkedIn (Soft green) -->
+<!-- LinkedIn (Soft Charcoal Grey) -->
 <a href="https://www.linkedin.com/in/satveer-kaur-2315223a7" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-7BA4DB?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -53,11 +53,6 @@ I’m currently learning Python and Java and building a stronger foundation thro
 <!-- Instagram (Soft Lavender) -->
 <a href="https://www.instagram.com/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-C7A6E5?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<!-- GitHub (Soft Charcoal Grey) -->
-<a href="https://github.com/Satveerk31" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-4A4A4A?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </p>
