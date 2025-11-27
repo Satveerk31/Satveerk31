@@ -36,11 +36,6 @@ I’m currently learning Python and Java and building a stronger foundation thro
 
 ---
 
-## GitHub Stats
-![Satveer GitHub Stats](https://github-readme-stats.vercel.app/api?username=Satveerk31&show_icons=true&theme=default)
-
----
-
 ## Let's Connect
 
 <p align="left">
