@@ -1,14 +1,11 @@
 <h1 align="center">Hi, I'm Satveer 👋</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/2nd%20Year-CSE-blue?style=for-the-badge" alt="year" />
-  <img src="https://img.shields.io/badge/Aspiring-Developer-green?style=for-the-badge" alt="aspiring" />
+  ⭐ 2nd Year CSE Student &nbsp; • &nbsp; 🖥️ Aspiring Software Developer &nbsp; • &nbsp; 📚 Lifelong Learner
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📍-Bathinda%2C%20Punjab-lightgrey?style=flat-square" alt="location" />
-  &nbsp;&nbsp;
-  <a href="mailto:satveerka2006@gmail.com"><img src="https://img.shields.io/badge/✉️-satveerka2006%40gmail.com-lightgrey?style=flat-square" alt="email" /></a>
+  📍 Bathinda, Punjab &nbsp; • &nbsp; ✉️ <a href="mailto:satveerka2006@gmail.com">satveerka2006@gmail.com</a>
 </p>
 
 ---
