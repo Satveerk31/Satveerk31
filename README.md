@@ -20,7 +20,7 @@ I’m currently learning Python and Java and building a stronger foundation thro
 ## Tech Stack
 
 **Programming Languages:**  
-- C, C++, Python, Java  
+- Python, Java  
 
 **Web Technologies:**  
 - HTML, CSS  
