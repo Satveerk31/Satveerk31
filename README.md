@@ -1,57 +1,71 @@
-# Hi, I'm Satveer 👋
+<h1 align="center">Hi, I'm Satveer 👋</h1>
 
-I'm a 2nd year CSE student exploring software development and improving my programming skills.  
-I’m currently learning Python and Java and building a stronger foundation through consistent practice.
-
-📍 Bathinda, Punjab  
-✉️ Email: satveerka2006@gmail.com  
+<p align="center">
+  ⭐ 2nd Year CSE Student • 🖥️ Aspiring Software Developer • 📚 Lifelong Learner  
+</p>
 
 ---
 
-## 🎯 About Me
+## 🚀 About Me
 
-💡 I'm a 2nd year CSE student who enjoys learning how software works and how ideas turn into real applications.  
-🚀 I’m currently exploring programming concepts in Python and Java and improving my understanding through small projects.  
-✨ I’m interested in problem-solving, learning new tools, and growing with consistency.  
-📝 Along with technical learning, I'm also working on communication, presentation, and project management skills.
+- 🎓 I'm a **2nd year CSE student** building my programming & development skills.  
+- 🐍 Currently learning **Python** and **Java**, and strengthening basics in **C & C++**.  
+- 💡 Love understanding how software works and turning ideas into projects.  
+- 📘 Improving: Problem-solving, communication, presentation & project management skills.  
+- 🎯 Goal: Become confident in development and contribute to real-world projects.
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-**Programming Languages:**  
-- Python, Java  
+### **💻 Programming Languages**
+- C  
+- C++  
+- Python  
+- Java  
 
-**Web Technologies:**  
-- HTML, CSS  
+### **🌐 Web Technologies**
+- HTML  
+- CSS  
 
-**Database:**  
+### **🗄️ Database**
 - MySQL  
 
-**Python Libraries:**  
-- Tkinter, Pandas, NumPy  
+### **🐍 Python Libraries**
+- Tkinter  
+- Pandas  
+- NumPy  
 
-**Tools & IDEs:**  
-- VS Code, Jupyter Notebook, Git, GitHub  
+### **🛠️ Tools & IDEs**
+- VS Code  
+- Jupyter Notebook  
+- Git & GitHub  
 
 ---
 
-## Let's Connect
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Satveerk31&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satveerk31&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
 
 <p align="left">
 
-<!-- LinkedIn (Soft Charcoal Grey) -->
 <a href="https://www.linkedin.com/in/satveer-kaur-2315223a7" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-7BA4DB?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-7BA4DB?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<!-- Instagram (Soft Lavender) -->
 <a href="https://www.instagram.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-C7A6E5?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-C7A6E5?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 </p>
 
 ---
 
-Thanks for visiting my profile.
+<p align="center">✨ Thanks for visiting my profile! ✨</p>
