@@ -35,7 +35,7 @@
 ### **🗄️ Database**
 - MySQL  
 
-### **🐍 Python Libraries**
+### **💻🐍 Python Libraries**
 - Tkinter  
 - Pandas  
 - NumPy  
