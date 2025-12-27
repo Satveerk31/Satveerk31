@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Satveer 👋</h1>
+<h1 align="center">Hi, I'm Satveer Kaur 👋</h1>
 
 <p align="center">
   ⭐ 2nd Year CSE Student &nbsp; • &nbsp; 🖥️ Aspiring Software Developer &nbsp; • &nbsp; 📚 Lifelong Learner
