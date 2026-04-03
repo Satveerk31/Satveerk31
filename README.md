@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  📍 Bathinda, Punjab &nbsp; • &nbsp;  📧 <a href="mailto:satveerk2006@gmail.com">satveerk2006@gmail.com</a>
+  📍 Bathinda, Punjab &nbsp; • &nbsp;  📧 <a href="mail to:satveerk2006@gmail.com">satveerk2006@gmail.com</a>
 </p>
 
 ---
@@ -63,4 +63,4 @@
 
 ---
 
-<p align="center">✨ Thanks for visiting my profile! ✨</p>
+<p align="center">✨ Thanks for visiting my profile!✨</p>
