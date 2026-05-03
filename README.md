@@ -5,45 +5,58 @@
 </p>
 
 <p align="center">
-  📍 Bathinda, Punjab &nbsp; • &nbsp;  📧 <a href="mail to:satveerk2006@gmail.com">satveerk2006@gmail.com</a>
+  📍 Bathinda, Punjab &nbsp; • &nbsp;  
+  📧 <a href="mailto:satveerk2006@gmail.com">satveerk2006@gmail.com</a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 I'm a **2nd year CSE student** building my programming & development skills.  
-- 🐍 Currently learning **Python** and **Java**, and strengthening basics in **C & C++**.  
-- 💡 Love understanding how software works and turning ideas into projects.  
-- 📘 Improving: Problem-solving, communication, presentation & project management skills.  
-- 🎯 Goal: Become confident in development and contribute to real-world projects.
+- 🎓 I'm a **2nd-year Computer Science Engineering student** passionate about technology and development.  
+- 💻 Currently learning **Python** and **Java**, while strengthening fundamentals in **C & C++**.  
+- 🌱 Exploring **software development** and building small projects to improve practical skills.  
+- 🧠 Continuously improving my **problem-solving, communication, and project management skills**.  
+- 🎯 Aim: To become a skilled developer and contribute to real-world impactful projects.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### **💻 Programming Languages**
-- C  
-- C++  
-- Python  
-- Java  
+### 💻 Programming Languages
+`C` • `C++` • `Python` • `Java`
 
-### **🌐 Web Technologies**
-- HTML  
-- CSS  
+### 🌐 Web Technologies
+`HTML` • `CSS`
 
-### **🗄️ Database**
-- MySQL  
+### 🗄️ Database
+`MySQL`
 
-### **💻🐍 Python Libraries**
-- Tkinter  
-- Pandas  
-- NumPy  
+### 🐍 Python Libraries
+`Tkinter` • `Pandas` • `NumPy`
 
-### **🛠️ Tools & IDEs**
-- VS Code  
-- Jupyter Notebook  
-- Git & GitHub  
+### 🛠️ Tools & IDEs
+`VS Code` • `Jupyter Notebook` • `Git` • `GitHub`
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Satveerk31&show_icons=true&theme=tokyonight" alt="github stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satveerk31&theme=tokyonight" alt="streak stats" />
+</p>
+
+---
+
+## 🌟 Currently Working On
+
+- 📌 Improving Data Structures & Algorithms  
+- 📌 Building beginner-friendly projects  
+- 📌 Exploring open-source opportunities  
 
 ---
 
@@ -63,4 +76,4 @@
 
 ---
 
-<p align="center">✨ Thanks for visiting my profile!✨</p>
+<p align="center">✨ Thanks for visiting my profile! Keep learning & growing 🚀✨</p>
