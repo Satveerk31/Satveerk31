@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Satveer Kaur 👋</h1>
 
 <p align="center">
-  ⭐ 2nd Year CSE Student &nbsp; • &nbsp; 🖥️ Aspiring Software Developer &nbsp; • &nbsp; 📚 Lifelong Learner
+  ⭐ 2nd Year CSE Student &nbsp; • &nbsp; 🖥️ Future Software Developer &nbsp; • &nbsp; 📚 Always Learning Something New
 </p>
 
 <p align="center">
@@ -11,56 +11,74 @@
 
 ---
 
-## 🚀 About Me
+## 🌸 About Me
 
-- 🎓 I'm a **2nd-year Computer Science Engineering student** passionate about technology and development.  
-- 💻 Currently learning **Python** and **Java**, while strengthening fundamentals in **C & C++**.  
-- 🌱 Exploring **software development** and building small projects to improve practical skills.  
-- 🧠 Continuously improving my **problem-solving, communication, and project management skills**.  
-- 🎯 Aim: To become a skilled developer and contribute to real-world impactful projects.
+Hey there! 👋
+I'm Satveer, a curious mind who loves exploring how technology works and how ideas turn into real-world applications.
+
+* 🎓 Currently in my **2nd year of Computer Science Engineering**
+* 💻 Learning **Python & Java**, while building strong basics in **C & C++**
+* 🌱 I enjoy creating small projects and learning something new every day
+* 🧠 Working on improving my **problem-solving and communication skills**
+* ✨ I believe consistency > perfection
+
+> 💭 *"Small progress each day leads to big results."*
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+### 💻 Languages I Know
+
 `C` • `C++` • `Python` • `Java`
 
-### 🌐 Web Technologies
+### 🌐 Web Basics
+
 `HTML` • `CSS`
 
 ### 🗄️ Database
+
 `MySQL`
 
 ### 🐍 Python Libraries
+
 `Tkinter` • `Pandas` • `NumPy`
 
-### 🛠️ Tools & IDEs
+### ⚙️ Tools I Use
+
 `VS Code` • `Jupyter Notebook` • `Git` • `GitHub`
 
 ---
 
-## 📊 GitHub Stats
+## 📊 My GitHub Journey
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Satveerk31&show_icons=true&theme=tokyonight" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Satveerk31&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satveerk31&theme=tokyonight" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satveerk31&theme=tokyonight" />
 </p>
 
 ---
 
-## 🌟 Currently Working On
+## 🌟 What I'm Up To
 
-- 📌 Improving Data Structures & Algorithms  
-- 📌 Building beginner-friendly projects  
-- 📌 Exploring open-source opportunities  
+* 🚀 Learning **Data Structures & Algorithms**
+* 🧩 Building beginner-friendly projects
+* 🌍 Exploring **open-source contributions**
 
 ---
 
-## 🌐 Connect With Me
+## 💬 A Little More About Me
+
+* ☕ I enjoy learning in a calm and focused environment
+* 📖 Sometimes I learn by teaching others
+* 🎯 Trying to become better than yesterday, not perfect
+
+---
+
+## 🌐 Let's Connect
 
 <p align="left">
 
@@ -76,4 +94,7 @@
 
 ---
 
-<p align="center">✨ Thanks for visiting my profile! Keep learning & growing 🚀✨</p>
+<p align="center">
+  ✨ Thanks for stopping by! <br>
+  🚀 Keep learning, keep building, keep growing
+</p>
