@@ -20,7 +20,7 @@ I'm Satveer, a curious mind who loves exploring how technology works and how ide
 * 💻 Learning **Python & Java**, while building strong basics in **C & C++**
 * 🌱 I enjoy creating small projects and learning something new every day
 * 🧠 Working on improving my **problem-solving and communication skills**
-* ✨ I believe consistency > perfection
+* ✨ I believe consistency = perfection
 
 > 💭 *"Small progress each day leads to big results."*
 
