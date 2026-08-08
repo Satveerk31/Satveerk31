@@ -82,13 +82,21 @@ ways to grow as a developer.
 <img src="https://img.shields.io/badge/GitHub-Satveerk31-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Satveer%20Kaur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+</p>
 
+<p align="center">
+🌷 Thanks for visiting my profile!  
+<br>
+✨ Feel free to explore my projects and connect with me.
 </p>
 
 ---
+
+<p align="center">
+
+✨ <b>Keep Learning • Keep Building • Keep Growing</b> ✨
+
+</p>
 
 <p align="center">
 
