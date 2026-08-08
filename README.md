@@ -82,6 +82,10 @@ ways to grow as a developer.
 <img src="https://img.shields.io/badge/GitHub-Satveerk31-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<a href="https://www.linkedin.com/in/satveer-kaur-723152333/">
+<img src="https://img.shields.io/badge/LinkedIn-Satveer%20Kaur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 </p>
 
 <p align="center">
@@ -98,8 +102,3 @@ ways to grow as a developer.
 
 </p>
 
-<p align="center">
-
-✨ <b>Keep Learning • Keep Building • Keep Growing</b> ✨
-
-</p>
