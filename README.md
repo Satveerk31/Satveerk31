@@ -1,9 +1,10 @@
-```markdown
-# 👋 Hi, I'm Satveer Kaur
+# 👋 Hey there, I'm Satveer Kaur!
 
-### 💻 Computer Science Engineering Student | Developer
+### 💻 Computer Science Engineering Student | Developer | Problem Solver
 
-I'm a CSE student passionate about programming, problem-solving, and building practical projects. 🌱
+Welcome to my GitHub profile! 🌷  
+I'm a Computer Science Engineering student who loves exploring technology,
+building projects, and learning something new every day.
 
 ---
 
@@ -11,34 +12,52 @@ I'm a CSE student passionate about programming, problem-solving, and building pr
 
 - 🎓 Computer Science Engineering Student
 - 💻 Working with **C, C++ & Python**
-- 🧠 Focused on **Data Structures & Algorithms**
-- 🚀 Building projects and exploring new technologies
-- 🌍 Exploring **Open Source Contributions**
-- 🎯 Aspiring Software Engineer
+- 🧠 Currently strengthening my **DSA & Problem-Solving** skills
+- 🚀 Enjoy building projects and turning ideas into reality
+- 🌱 Always curious to learn and explore new technologies
+- 🌍 Interested in **Open Source & Collaboration**
+- 🎯 Working towards becoming a **Software Engineer**
+
+> 💭 *"Small progress each day leads to big results."*
 
 ---
 
 ## 🛠️ Tech Stack
 
-**💻 Languages:** C • C++ • Python
+### 💻 Languages
+`C` • `C++` • `Python`
 
-**🌐 Web:** HTML • CSS
+### 🌐 Web
+`HTML` • `CSS`
 
-**🗄️ Database:** MySQL
+### 🗄️ Database
+`MySQL`
 
-**🐍 Libraries:** Tkinter • Pandas • NumPy
+### 🐍 Python Libraries
+`Tkinter` • `Pandas` • `NumPy`
 
-**⚙️ Tools:** Git • GitHub • VS Code • Jupyter
+### ⚙️ Tools
+`Git` • `GitHub` • `VS Code` • `Jupyter Notebook`
 
 ---
 
-## 🚀 What I Do
+## 🚀 What I'm Up To
 
-- 💻 Build practical programming projects
-- 🧠 Improve problem-solving skills
-- 🌐 Explore web development
-- 🌍 Contribute to open-source projects
-- 📚 Learn and experiment with new technologies
+- 🧩 Practicing **Data Structures & Algorithms**
+- 💻 Building beginner-friendly and practical projects
+- 🧠 Improving my problem-solving skills
+- 🌐 Exploring web development
+- 🌍 Learning about open-source contribution
+- 📚 Growing my technical knowledge step by step
+
+---
+
+## 💡 My Approach
+
+> 🌱 Learn → 🧠 Practice → 🛠️ Build → 🚀 Improve
+
+I believe that consistent learning and practical experience are the best
+ways to grow as a developer.
 
 ---
 
@@ -56,7 +75,6 @@ I'm a CSE student passionate about programming, problem-solving, and building pr
 
 <p align="center">
 
-✨ Keep Learning • Keep Building • Keep Growing ✨
+✨ <b>Keep Learning • Keep Building • Keep Growing</b> ✨
 
 </p>
-```
